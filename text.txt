@@ -1,0 +1,8 @@
+How to send email using PHPMailer in php via Contact Form - Gmail SMTP Server
+https://www.youtube.com/watch?v=h2bLhhAli0o
+
+https://www.badaiwala.com/post/how-to-send-email-in-php-using-phpmailer
+
+
+How to generate or create app password in Gmail account - 2024
+https://www.youtube.com/watch?v=weA4yBSUMXs
